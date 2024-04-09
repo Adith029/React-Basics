@@ -1,0 +1,33 @@
+/* Col{
+  height: 200px;
+}
+Card{
+  height: 200px;
+}
+.Row{
+height: 200px;
+}
+.body{
+  background-color: #121212;
+} */
+
+.main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+ 
+  
+}
+.items{
+  padding: 20px;
+  border: 1px solid #121212;
+}
+.items1{
+  align-items: start;
+  text-align: left;
+  padding: 20px;
+  border: 1px solid #121212;
+}
+ 
+  
